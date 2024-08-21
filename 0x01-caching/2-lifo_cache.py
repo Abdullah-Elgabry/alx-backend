@@ -5,6 +5,7 @@ from base_caching import BaseCaching
 
 from collections import OrderedDict
 
+
 class LIFOCache(BaseCaching):
     """this class contains a {} for in/out data with lifo algo
     """

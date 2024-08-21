@@ -5,6 +5,7 @@ from base_caching import BaseCaching
 
 from collections import OrderedDict
 
+
 class FIFOCache(BaseCaching):
     """this class contains a {} for in/out data with fifo algo
     """
